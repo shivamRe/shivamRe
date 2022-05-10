@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamRe
+- 👋 Hi, I’m @shivam
 - 👀 I’m interested in Python,AI,ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python.
